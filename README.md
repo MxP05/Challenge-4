@@ -21,8 +21,8 @@ run program using jupyterlab
 
 ## Usage
 can be used to analyze and visualize market data.
-
-
+*Box plot of all four funds showing standard deviation outliers and spread*
+![box plot of all four funds showing standard deviation outliers and spread](https://github.com/MxP05/Challenge-4/blob/main/Resources/image1.jpg?raw=true)
 ---
 
 ## Contributors
